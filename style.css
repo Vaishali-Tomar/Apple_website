@@ -146,12 +146,12 @@ button{
     z-index: 1;
 }
 .p33 img{
-    height: 80vh;
+    height: 82vh;
     width: 60vw;
 }
 .p333{
     position: absolute;
-    bottom: 20%;
+    bottom: 22%;
     left: 50%;
     transform: translate(-50%, 50%);
 }
