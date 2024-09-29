@@ -147,6 +147,7 @@ button{
 }
 .p33 img{
     height: 80vh;
+    width: 60vw;
 }
 .p333{
     position: absolute;
@@ -191,6 +192,10 @@ button{
     left: 50%;
     top: 15%;
     transform: translate(-50%, -50%);
+}
+.p44 .i{
+    height: 98%;
+    width: 98%;
 }
 .p3333{
     position: absolute;
